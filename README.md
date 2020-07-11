@@ -1,16 +1,12 @@
-# flutterappbartextwidget
+This repository is basically some simple widget snippets of flutter.It will be beneficial for developer who are in beginner state to learn flutter.
 
-A new Flutter application.
+How to use:
 
-## Getting Started
+****clone the repository 
+****for diffrent widgets just replace the file name in body of Main.dart & run  
 
-This project is a starting point for a Flutter application.
+All codes are done by : Taqi Tahmid Tanzil
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Inspired by youtube channel : https://www.youtube.com/channel/UC8fLLqVbNQL_cDdldEDuM4A 
+(All the coding here is available in video format in this channel in Bangla)!
+ 
