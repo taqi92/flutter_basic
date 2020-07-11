@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterappbartextwidget/slider.dart';
-import 'package:flutterappbartextwidget/toast.dart';
+import 'package:flutterappbartextwidget/checkbox.dart';
+import 'package:flutterappbartextwidget/dismissible.dart';
 
 
 void main() {
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             title: Text("Flutter Tutorial"),
             centerTitle: true,
           ),
-          body: SliderWidget(),
+          body: CheckBoxWidget(),
         ));
   }
 }
