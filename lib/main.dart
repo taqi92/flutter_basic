@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutterappbartextwidget/animated_container.dart';
 import 'package:flutterappbartextwidget/checkbox.dart';
 import 'package:flutterappbartextwidget/dismissible.dart';
+import 'package:flutterappbartextwidget/switch.dart';
 
 
 void main() {
@@ -18,7 +20,7 @@ class MyApp extends StatelessWidget {
             title: Text("Flutter Tutorial"),
             centerTitle: true,
           ),
-          body: CheckBoxWidget(),
+          body: AnimatedContainerWidget(),
         ));
   }
 }
