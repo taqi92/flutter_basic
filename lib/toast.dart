@@ -10,6 +10,7 @@ class ToastWidget extends StatefulWidget {
 }
 
 class _MyAppState extends State<ToastWidget> {
+
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
